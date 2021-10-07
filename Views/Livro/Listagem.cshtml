@@ -2,6 +2,7 @@
 @{
     ViewData["Title"] = "Listagem de Livros";
 }
+
 <div class="row">
     <div class="col-md-12">
     <form class="form-inline" method="POST">
@@ -27,7 +28,8 @@
             
             <thead>
 
-                <tr><th>Id</th>
+                <tr>
+                <th>Id</th>
                 <th>Titulo</th>
                 <th>Autor</th>
                 <th>Ano</th>
@@ -47,6 +49,7 @@
                 </tr>
                 }
             </tbody>
+            
             } else {
                 <p> Nenhum registro encontrado </p>
             }
