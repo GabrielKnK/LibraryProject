@@ -104,3 +104,9 @@ C:\Users\Windows\Desktop\ATIVIDADES\Biblioteca\obj\Debug\netcoreapp3.1\staticweb
 C:\Users\Windows\Desktop\ATIVIDADES\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.dll
 C:\Users\Windows\Desktop\ATIVIDADES\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.pdb
 C:\Users\Windows\Desktop\ATIVIDADES\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.genruntimeconfig.cache
+C:\Users\Windows\Desktop\ATIVIDADES\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\cadastroRealizado.cshtml.g.cs
+C:\Users\Windows\Desktop\ATIVIDADES\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\editarUsuario.cshtml.g.cs
+C:\Users\Windows\Desktop\ATIVIDADES\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\ExcluirUsuario.cshtml.g.cs
+C:\Users\Windows\Desktop\ATIVIDADES\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\ListaDeUsuarios.cshtml.g.cs
+C:\Users\Windows\Desktop\ATIVIDADES\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\NeedAdmin.cshtml.g.cs
+C:\Users\Windows\Desktop\ATIVIDADES\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\RegistrarUsuarios.cshtml.g.cs
